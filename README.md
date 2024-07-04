@@ -10,14 +10,9 @@
 4. Use React framework to achieve DRY coding
 
 ### Technologies Used
-- HTML5
-- JavaScript 
-- React
-- CSS3
+NextJS, TailwindCSS, GSAP, Framer Motion, shadcn-ui
 
 ### Feature Libraries
-- tsparticles
-- @emailjs/browser
 - animate.css
 - sass
 - react-icons
