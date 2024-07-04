@@ -7,7 +7,7 @@
 1. Feature my most recent projects during my software engineering immersive course at General Assembly
 2. Clean, minimalist design
 3. Links to my LinkedIn profile & GitHub repositories
-4. Use React framework to achieve DRY coding
+4. Use NextJS framework to achieve DRY coding
 
 ### Technologies Used
 NextJS, TailwindCSS, GSAP, Framer Motion, shadcn-ui
